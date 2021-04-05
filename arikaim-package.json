@@ -1,15 +1,12 @@
 {
-    "title": "UI components",
+    "title": "Icons",
     "package-type": "components",
-    "name": "semantic",
-    "version": "1.5.7",
-    "description": "Arikaim components library for Semantic UI",
-    "repository": "https://github.com/arikaim/ui-components.git",
+    "name": "icons",
+    "version": "1.0.0",
+    "description": "Heroicons, svg icons components library.",
+    "repository": "https://github.com/arikaim/icons-components.git",
     "require": {
-        "library": [
-            "fomantic",
-            "jquery",
-            "arikaim-ui:1.3.2"
+        "library": [           
         ]
     }
 }
