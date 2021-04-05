@@ -1,7 +1,7 @@
 {
-    "name": "arikaim/ui-components",
-    "description": "Arikam CMS UI components",
-    "keywords": ["UI", "Arikam UI components","Arikaim"],
+    "name": "arikaim/icons-components",
+    "description": "Arikam CMS svg icons components",
+    "keywords": ["UI", "Arikam UI svg icons components","Arikaim"],
     "type": "arikaim-components-library",
     "license": "GPL-3.0-or-later",
     "authors": [{
@@ -13,6 +13,6 @@
         "arikaim/installer": "*"
     },
     "extra": {
-        "path": "semantic"
+        "path": "icons"
     }
 }
