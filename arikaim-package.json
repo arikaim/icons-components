@@ -2,11 +2,9 @@
     "title": "Icons",
     "package-type": "components",
     "name": "icons",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Heroicons, svg icons components library.",
     "repository": "https://github.com/arikaim/icons-components.git",
-    "require": {
-        "library": [           
-        ]
+    "require": {       
     }
 }
