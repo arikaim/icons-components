@@ -14,5 +14,7 @@
 #### Installation
 
 ```sh
+
 composer require arikaim/icons-components
+
 ```
